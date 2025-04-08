@@ -44,16 +44,7 @@ Extendable and lightweight
 Drupal 10+
 
 Olivero Theme (Core)
-
-## Contributors 
-
-[Contributing Guidelines](./CONTRIBUTING.md)
-
-## Code of Conduct 
-Please follow our [Code of Conduct](./CODE_OF_CONDUCT.md) to ensure a welcoming environment for everyone.  
-
-## License 
-This project is licensed under the [MIT License](./LICENSE).  
+  
 
 
 
